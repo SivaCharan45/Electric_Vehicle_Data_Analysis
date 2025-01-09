@@ -14,6 +14,14 @@ The project statement includes the following questions:
 ->Which manufacturers dominate the market in terms of total electric vehicles?
 ->What proportion of electric vehicles are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives?
 ->Which models are the most popular among electric vehicles based on total count?
+## Process
+->Imported an existing electric vehicle dataset into Tableau for analysis.
+->Explored key attributes such as vehicle type, model year, state, manufacturer, and electric range.
+->Designed interactive dashboards with visualizations like line charts, maps, bar charts, pie charts, and treemaps.
+->Analyzed adoption trends, geographical distribution, and market dominance of manufacturers and vehicle models.
+->Interpreted insights to evaluate market growth, technological advancements, and the influence of government incentives.
+## Dashboard
+Dashboard Interaction <a href="
 ## Project Insights
 1. Market Overview: The analysis highlights the dominance of Battery Electric Vehicles (BEVs) over Plug-in Hybrid Electric Vehicles (PHEVs), indicating a shift towards fully electric solutions.
 2. Technological Advancements: The average electric range showcases continuous improvements in EV technology, reflecting manufacturers' efforts to enhance efficiency and battery performance.
