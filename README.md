@@ -21,7 +21,7 @@ The project statement includes the following questions:
 ->Analyzed adoption trends, geographical distribution, and market dominance of manufacturers and vehicle models.
 ->Interpreted insights to evaluate market growth, technological advancements, and the influence of government incentives.
 ## Dashboard
-Dashboard Interaction <a href="
+Dashboard Interaction <a href="https://github.com/SivaCharan45/Electric_Vehicle_Data_Analysis/blob/main/EV%20Data%20Analysis.jpg">View Dashboard</a>
 ## Project Insights
 1. Market Overview: The analysis highlights the dominance of Battery Electric Vehicles (BEVs) over Plug-in Hybrid Electric Vehicles (PHEVs), indicating a shift towards fully electric solutions.
 2. Technological Advancements: The average electric range showcases continuous improvements in EV technology, reflecting manufacturers' efforts to enhance efficiency and battery performance.
